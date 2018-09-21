@@ -1,3 +1,3 @@
 ## Initial Commit ##
 
-1. First chnage!
+1. First change!
