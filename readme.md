@@ -1,6 +1,6 @@
 ## Initial Commit ##
 
 1. First change!
-2. Updated some things.
-3. Added stuff.
-4. Going to push all of this I think.
+2. I didn't like step twq
+3. And three was just not right either
+4. Is right out
